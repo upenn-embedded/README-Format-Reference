@@ -193,6 +193,8 @@ $$
 \Gamma(z) = \int_0^\infty t^{z-1} e^{-t} \, dt\,.
 $$
 
+Use any Latex Equation Generator to generate formulas in Latex format! (e.g., [latex_equation_editor](https://www.tutorialspoint.com/latex_equation_editor.htm) )
+
 ## 10. Horizontal Rules
 
 The first way of adding a Horizontal Rule: 
