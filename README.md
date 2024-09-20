@@ -1,8 +1,12 @@
 # README Format Reference
 
+This is a reference repository; please delete whatever content is not used for your assignment submission. You may also want or need to adjust the .gitignore file for your needs.
+
 ## 0. Tips
 
 ### VSCode Markdown Extension Recommendation
+
+By using the extensions.json file in the .vscode folder, you should automatically be prompted to install recommended VSCode extensions when opening this repository. These extensions are also shown in the screenshot below.
 
 <figure>
     <img src="./images/markdown_extensions.png"
