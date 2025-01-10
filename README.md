@@ -8,6 +8,8 @@ This is a reference repository; please delete whatever content is not used for y
 
 By using the extensions.json file in the .vscode folder, you should automatically be prompted to install recommended VSCode extensions when opening this repository. These extensions are also shown in the screenshot below.
 
+The [Typora](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-typora) VS Code extension can be used to generate PDFs of the README
+
 <figure>
     <img src="./images/markdown_extensions.png"
          alt="markdown_extensions"
