@@ -17,6 +17,11 @@ The [Typora](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-
          height="440">
 </figure>
 
+Other Markdown resources include:
+* [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+* [Adobe free video to gif converter](https://www.adobe.com/express/feature/video/convert/video-to-gif)
+* [Curated list of example READMEs](https://github.com/matiassingers/awesome-readme)
+
 ## 1. Headings
 
 # Course Recommendation: ESE5190
